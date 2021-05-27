@@ -13,7 +13,7 @@
 
 # clone sample java program
 
-  https://github.com/prasanjeetdas/NetflixConductor.git
+ https://github.com/prasanjeetdas/Docker_conductor1.git
  
 # this program file contains:
   
