@@ -11,7 +11,7 @@
 
 # Use the pre-configured Docker image
 
-# clone sample java program
+# clone sample java program(branch: main)
 
  https://github.com/prasanjeetdas/Docker_conductor1.git
  
